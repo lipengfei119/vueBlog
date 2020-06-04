@@ -15,5 +15,13 @@ npm run serve
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+###接口
+| 接口地址      | 功能说明    |  http请求方式| 请求参数 | 响应参数
+| --------    | --------   | --------   | -------- | --------    
+| '/'         | 请求主页面   |   get     |           |json文件
+| '/'         | 请求主页面   |   get     |           |json
+| '/'         | 请求主页面   |   get     |           |json
+| '/'         | 请求主页面   |   get     |           |json
+| '/'         | 请求主页面   |   get     |           |json
+| '/'         | 请求主页面   |   get     |           |json
+
